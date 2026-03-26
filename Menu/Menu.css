@@ -1,0 +1,18 @@
+.card{
+    border: 2px solid greenyellow;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+    
+}
+
+.bg{
+    background-color: rgb(38, 211, 15);
+    color: white;
+}
